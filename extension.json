@@ -1,0 +1,10 @@
+{
+  "id": "matn.ext.filepicker",
+  "name": "Quick Open & Command Palette",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Fast fuzzy file finder and interactive command execution palette (Ctrl+P)",
+  "category": "tools",
+  "type": "plugin",
+  "repository": "https://github.com/matn-extensions/ext-filepicker"
+}
